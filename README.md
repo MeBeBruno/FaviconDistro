@@ -2,4 +2,4 @@
 
 > A collection of HTML pages to present favicons ⭐
 
-&rarr; [Live Pages](https://mebebruno.github.io/FaviconDistro/)
+&rarr; [Live Page](https://mebebruno.github.io/FaviconDistro/)
